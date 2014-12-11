@@ -1,6 +1,3 @@
-
-[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/index.html "Permalink to Scope")
-
 # Scope
 
 "With the sequencing of the human genome…the practice of medicine has now entered an era in which the individual patient's genome will help determine the optimal approach to care, whether it is preventive, diagnostic, or therapeutic. Genomics, which has quickly emerged as the central basic science of biomedical research, is poised to take center stage in clinical medicine as well."[1]
