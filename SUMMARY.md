@@ -9,7 +9,7 @@ This is the summary of my book.
 * [Selected Journal Articles and Reviews](Selected Journal Articles and Reviews.md)
 * [Encyclopedias & Books](Encyclopedias & Books.md)
 * [Organizational & Agency Homepages](Organizational & Agency Homepages.md)
-* [Professional Education Resources](Professional Education Resources)
+* [Professional Education Resources](Professional Education Resources.md)
 * [History](History.md)
 * [Statistics Sources](Statistics Sources.md)
 * [Laws, Regulations, Policy, Implications](Laws, Regulations, Policy, Implications.md)
