@@ -59,7 +59,7 @@ Personalized medicine is tailoring medical treatment to the individual character
 [Translocation][50] literally means a "change in location" referring to genetic translocations. Translocation involves breakage and reconnection of different [chromosomes][51], the cellular storage units for genes inside the cell nucleus (the genetic center). Part of a chromosome transfers to another position in the genome. Some cancers, for example, without known hereditary or other factors, are acquired chromosome alterations that translocate. For more about this, see [What is a Translocation][52]? by Drs. Gabriela Mercado and Frederic Barr who explain chromosomal translocations in sarcomas (e.g., Ewing's Sarcoma) characterized by deregulated pathways that mediate cell survival and proliferation.
 
 
-[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/definitions/ "Permalink to Definitions")
+[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/definitions/ "Original Source-National Library of Medicine")
 
 [1]: http://www.nature.com/scitable/topicpage/behavioral-genomics-29093
 [2]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3078627/
