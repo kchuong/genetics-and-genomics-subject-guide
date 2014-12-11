@@ -61,8 +61,6 @@ Personalized medicine is tailoring medical treatment to the individual character
 
 [Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/definitions/ "Permalink to Definitions")
 
-&lt; [Previous Section][53] | [Next Section][54] &gt;
-
 [1]: http://www.nature.com/scitable/topicpage/behavioral-genomics-29093
 [2]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3078627/
 [3]: http://www.genome.gov/11508982
@@ -115,6 +113,3 @@ Personalized medicine is tailoring medical treatment to the individual character
 [50]: http://ghr.nlm.nih.gov/glossary=translocation
 [51]: http://ghr.nlm.nih.gov/handbook/basics/chromosome
 [52]: http://sarcomahelp.org/articles/chromosomal-translocations.html
-[53]: /services/Subject_Guides/geneticsandgenomics/index.html
-[54]: /services/Subject_Guides/geneticsandgenomics/glossariesanddictionaries/index.html
-  
