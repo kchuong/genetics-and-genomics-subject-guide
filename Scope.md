@@ -40,10 +40,7 @@ This guide does not include in-depth information for the following:
 
 [2] Woodage T, Collins, FS. The genomic basis of medicine. In: Warrell DA, Cox TM, Firth JD, editors. Oxford Textbook of Medicine. 4th ed. Vol. 1. Oxford: Oxford University Press; c2003. p.81.
 
-[1]: /services/Subject_Guides/druginformation/specialaudiencesoruses/veterinarymedicine/index.html
-[2]: /services/Subject_Guides/geneticsandgenomics/definitions/index.html
-
-[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/index.html "Permalink to Scope")
+[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/index.html "Original Source-National Library of Medicine")
 
 
   
