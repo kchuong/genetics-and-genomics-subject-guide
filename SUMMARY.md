@@ -14,6 +14,6 @@ This is the summary of my book.
 * [Statistics Sources](Statistics Sources.md)
 * [Laws, Regulations, Policy, Implications](Laws, Regulations, Policy, Implications.md)
 * [Free Databases](Free Databases.md)
-* [NLM Medical Subject Headings - MeSH -for Searching PubMed Databases](NLM Medical Subject Headings - MeSH -for Searching PubMed Databases.md)
+* [NLM Medical Subject Headings - MeSH -for Searching PubMed Databases](NLM Medical Subject Headings-MeSH-for Searching PubMed Databases.md)
 * [Subscription Databases](Subscription Databases.md)
 
