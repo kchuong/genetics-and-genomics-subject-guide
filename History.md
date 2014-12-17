@@ -26,7 +26,7 @@ Susman, M. [Genes: Definition and Structure][13] [PDF]. Encyclopedia of Life Sci
 
 [Timeline of the Human Genome][14]. Smithsonian National Museum of Natural History, Washington (DC), in partnership with the National Human Genome Research Institute; [date unknown].
 
-[Original Source](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/history/ "Original Source-National Library of Medicine")
+[Original Source - On NLM's Page](http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/history/ "Original Source-National Library of Medicine")
 
 [1]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092091/
 [2]: http://www.nature.com/nrg/journal/v2/n2/full/nrg0201_091a.html
