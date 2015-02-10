@@ -1,8 +1,8 @@
 # Genetics and Genomics Subject Guide
 
-Pulling in the National Library of Medicine's "Genetics and Genomics" subject guide to convert and test in Gitbook
+Pulling in the National Library of Medicine's "Collection Development Manual" to convert and test in Gitbook
 
-The original NLM subject guide can be found here: http://www.nlm.nih.gov/services/Subject_Guides/geneticsandgenomics/
+The original NLM subject guide can be found here: http://www.nlm.nih.gov/tsd/acquisitions/cdm/index.html
 
 ## Process
 
